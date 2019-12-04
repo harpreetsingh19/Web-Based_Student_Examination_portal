@@ -1,0 +1,45 @@
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+	body {
+		margin:0;
+		padding:0;
+		font-family:sans-serif;
+		background:url(login_bg.png);
+		background-size:cover;
+		}
+		
+	.main{
+		width: 300px;
+		position:absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%,-50%);
+		color: white;
+	}
+	.main h1{
+		float:center;
+		font-size: 40px;
+		border-bottom: 5px solid #4caf40;
+		margin-bottom: 40px;
+		padding:10px 0;
+		
+	}
+	.textbox{
+		width:50%;
+		overflow:hidden;
+		padding:5px 0;
+		border-bottom:1px solid #32635a;
+	}
+	.btn{
+		width:100%;
+		background: none;
+		border:1px solid #3C1C78;
+		color:#16013E ;
+		padding: 5px;
+		font-size: 18px;
+		cursor: pointer;
+		margin: 12px 0;
+	}
+	
+	
+	
+	

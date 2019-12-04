@@ -1,0 +1,35 @@
+body{
+				background-image: url("First_page_Background.png");
+				background-size:cover;
+				font-family:sans-serif;
+}
+
+img{
+				height:200px;
+}
+.student{
+				position:absolute;
+				top:60%;
+				left:20%;
+				
+}
+
+.login_admin{
+				position: absolute;
+				top:20%;
+				left:80%;
+				
+}
+
+h3{
+				color:white;
+				font-size:30px;
+				text-decoration:underline;
+				text-decoration-color:#82818c;
+}
+h1{
+				font-size:40px;
+				text-align:center;
+				border-bottom:5px solid #453c85;
+				padding:13px 0;
+}
